@@ -1,0 +1,31 @@
+{
+  "name": "nahs-Bricks-Lib-FSmem",
+  "version": "1.1.0",
+  "description": "Flexible interface for assigning FSmem chunks to NAHS-Bricks-Features",
+  "keywords": "NAHS-Bricks, interface, FSmem, esp8266",
+  "repository":
+  {
+    "type": "git",
+    "url": "git@github.com:NAHS-Bricks/Lib-FSmem.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Nils Ost",
+      "email": "home@nijos.de",
+      "url": "https://nijos.de",
+      "maintainer": true
+    }
+  ],
+  "exclude": [
+    ".gitignore"
+  ],
+  "license": "GPL-3.0",
+  "homepage": "https://bricks.nijos.de/",
+  "dependencies": {
+      "bblanchon/ArduinoJson": ">=6.17.3"
+  },
+  "frameworks": "*",
+  "platforms": ["espressif8266"],
+  "examples": "examples/*/*.ino"
+}
