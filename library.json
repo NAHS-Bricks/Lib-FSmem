@@ -1,6 +1,6 @@
 {
   "name": "nahs-Bricks-Lib-FSmem",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Flexible interface for assigning FSmem chunks to NAHS-Bricks-Features",
   "keywords": "NAHS-Bricks, interface, FSmem, esp8266",
   "repository":
